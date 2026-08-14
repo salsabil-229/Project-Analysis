@@ -99,7 +99,6 @@ This model is directly useful for salary negotiation and career planning. **Job 
 
 Relationship built between the two tables:
 
-![Data model relationship](top_skills_model_relationship.png)
 <div align="center"><img src="top_skills_model_relationship.png"></div>
 
 Using the Power Pivot menu to manage the model and build out measures:
@@ -111,7 +110,6 @@ Using the Power Pivot menu to manage the model and build out measures:
 - SQL and Python are the clear leaders in demand across data roles, confirming their status as foundational tools in the field.
 - Cloud platforms - AWS and Azure specifically - show a strong and growing presence, reflecting the industry's shift toward cloud-based data infrastructure.
 
-![Top skills chart](top_skills_model_chart.png)
 <div align="center"><img src="top_skills_model_chart.png"></div>
 
 ### Conclusion
@@ -133,7 +131,6 @@ For job seekers, this is an insight map. **SQL and Python aren't optional, and c
 - Python, Oracle, and SQL show the strongest combination of high median salary and high demand.
 - PowerPoint and Word sit at the bottom on both salary and likelihood, suggesting they're baseline expectations rather than differentiators.
 
-![Top skills pay chart](skill_salary_analysis_combo_chart.png)
 <div align="center"><img src="skill_salary_analysis_combo_chart.png"></div>
 
 ### Conclusion
