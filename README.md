@@ -137,3 +137,9 @@ For job seekers, this is an insight map. **SQL and Python aren't optional, and c
 This chart makes it easy to see where you should spend your time. **For anyone deciding what to learn next, Python and SQL are the highest-leverage investments** - they show up both as high-demand and high-paying, which isn't true of every skill on the list.
 
 ---
+
+## Overall Conclusion
+
+I built this project to go beyond a single chart or dashboard and show a full, end-to-end analytical workflow: pulling raw data through Power Query, modeling relationships in Power Pivot, writing DAX measures to calculate real business metrics, and turning all of it into PivotTables and charts that answer specific, practical questions.
+
+Across all four models, the throughline is consistent: **skill breadth, in-demand technical skills (SQL, Python, cloud platforms), and role seniority are the strongest drivers of pay**. Location also adds a meaningful second layer on top of that. Together, these models give job seekers a data-backed way to decide what to learn and what to expect, and give employers a way to check whether their compensation is actually aligned with the market.
